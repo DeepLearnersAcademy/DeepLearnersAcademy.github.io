@@ -2,8 +2,8 @@
 permalink: /
 title: "Deep Learners Academy"
 ---
+<!--- # Welcome to Deep Learners Academy -->
 
-# Welcome to Deep Learners Academy
 
 Welcome to Deep Learners Academy, where we focus on teaching Mathematics, Machine Learning, Deep Learning, and Statistics. Our courses are designed to provide comprehensive knowledge and practical skills.
 
@@ -22,7 +22,7 @@ I am a Research Engineer specializing in the perception aspect of self-driving c
 | Day 2 | [PDF](link-to-pdf) | [Video](link-to-video) |
 | Day 3 | [PDF](link-to-pdf) | [Video](link-to-video) |
 | ... | ... | ... |
-
+<!---
 ## References
 
 - [CPP snippets](https://docs.google.com/document/d/1vqOmUQLjMNSWtA2sj3320rrJb-eU53br9P6kYgB2Fgw/edit?usp=sharing)
@@ -41,3 +41,4 @@ A brief description of blog post 2.
 
 ### [Blog Post 3](link-to-blog-post-3)
 A brief description of blog post 3.
+--->
