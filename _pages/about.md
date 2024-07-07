@@ -15,9 +15,9 @@ Welcome to Deep Learners Academy, where we focus on teaching Mathematics, Machin
 
 | Day | Notes | Video Link |
 | --- | ----- | ---------- |
-| Day 1 | [PDF](link-to-pdf) | [Video](link-to-video) |
-| Day 2 | [PDF](link-to-pdf) | [Video](link-to-video) |
-| Day 3 | [PDF](link-to-pdf) | [Video](link-to-video) |
+| Day 1 | [PDF](https://notability.com/n/1I0SPej5GA07RGbPfuSntA) | [Video](link-to-video) |
+| Day 2 | [PDF](https://notability.com/n/3m~Qwb8KB~fG2vVrzVK4e) | [Video](link-to-video) |
+| Day 3 | [PDF](https://notability.com/n/7fQeDkh84jOPpk0qx3pim) | [Video](link-to-video) |
 | ... | ... | ... |
 
 
