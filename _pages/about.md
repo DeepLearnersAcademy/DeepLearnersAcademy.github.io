@@ -7,10 +7,7 @@ title: "Deep Learners Academy"
 
 Welcome to Deep Learners Academy, where we focus on teaching Mathematics, Machine Learning, Deep Learning, and Statistics. Our courses are designed to provide comprehensive knowledge and practical skills.
 
-## About Me
-I am a Research Engineer specializing in the perception aspect of self-driving cars. I hold a Master's degree in Communication & Signal Processing from IIT Bombay, with expertise in Deep Learning, Algorithms, and Wireless Networks. I am passionate about leveraging technology to make a positive impact and am dedicated to contributing to the advancement of the technology industry.
 
-### [Profile](link-to-your-profile)
 
 ---
 
@@ -22,7 +19,14 @@ I am a Research Engineer specializing in the perception aspect of self-driving c
 | Day 2 | [PDF](link-to-pdf) | [Video](link-to-video) |
 | Day 3 | [PDF](link-to-pdf) | [Video](link-to-video) |
 | ... | ... | ... |
+
+
 <!---
+## About Me
+I am a Research Engineer specializing in the perception aspect of self-driving cars. I hold a Master's degree in Communication & Signal Processing from IIT Bombay, with expertise in Deep Learning, Algorithms, and Wireless Networks. I am passionate about leveraging technology to make a positive impact and am dedicated to contributing to the advancement of the technology industry.
+
+### [Profile](link-to-your-profile)
+
 ## References
 
 - [CPP snippets](https://docs.google.com/document/d/1vqOmUQLjMNSWtA2sj3320rrJb-eU53br9P6kYgB2Fgw/edit?usp=sharing)
